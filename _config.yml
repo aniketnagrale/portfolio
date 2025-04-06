@@ -82,9 +82,9 @@ content:
         quote: >
           Driving growth through product strategies and user engagement initiatives.
         description: | # this will include new lines to allow paragraphs
-            Implemented an automated 30-day handholding journey for newly onboarded users, enhancing feature adoption.
-            Strategized targets for Spends, ENR & activation based on seasonality, budget, and dynamic exclusive campaigns.
-            Built an in-app feature promoting offline transactions using OneCard, achieving a repeat rate of 60% with 90,000 monthly transactions.
+          - Implemented an automated 30-day handholding journey for newly onboarded users, enhancing feature adoption.
+          - Strategized targets for Spends, ENR & activation based on seasonality, budget, and dynamic exclusive campaigns.
+          - Built an in-app feature promoting offline transactions using OneCard, achieving a repeat rate of 60% with 90,000 monthly transactions.
 
       - layout: left
         title: Rapido (Roppen Transportation)
