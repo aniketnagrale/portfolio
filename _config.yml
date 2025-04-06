@@ -119,9 +119,9 @@ content:
         caption: May 2018 – Jul 2018
         quote: >
           Applied machine learning to forecast business KPIs and automate classification at scale.
-      description: |
-        - Built time-series models (ARIMA, FBProphet) for KPI forecasting, saving INR 1,20,000 in resourcing.
-        - Used Spacy’s NER for entity tagging, eliminating manual effort in company/country/region classification.
+        description: |
+          - Built time-series models (ARIMA, FBProphet) for KPI forecasting, saving INR 1,20,000 in resourcing.
+          - Used Spacy’s NER for entity tagging, eliminating manual effort in company/country/region classification.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
