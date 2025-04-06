@@ -131,15 +131,20 @@ content:
         caption: 2015 - 2019
         sub_title: Bachelors of Technology
         quote: >
-          The Indian Institute of Technology Kharagpur is a public institution established by the government of India in 1951. It is the first of the IITs to be established and is recognised as an Institute of National Importance. In 2019 it was awarded the status of Institute of Eminence.
-        description: | # this will include new lines to allow paragraphs
-          I always had an intellectual curiosity for solving organizational challenges and broaden my area of expertise. I thrive in rapidly growing and innovative organizations by delivering quality performance and significant value addition.
+         "IIT Kharagpur taught me to think big, build fast, and always be curious."
+        description: |
+         - Developed a strong technical foundation through a rigorous curriculum.
+         - Participated in Excellence Quotient by EXL for a customer prediction model.
+         - Won Bronze in Hardware Modelling and Silver in Product Design competition.
+         - Represented hostel in Inter-Hall Cricket (Silver) and Athletics (Bronze).
+         - Learned teamwork, problem-solving, and managing complex deadlines.
+         - Built adaptability and leadership by working with diverse teams.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in Product Management and Analytics, some of my other interests and hobbies are:
-      - Going to the Gym
+      - Gym and Boxing
       - Gaming
       - Reading
 
