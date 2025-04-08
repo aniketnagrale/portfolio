@@ -49,6 +49,8 @@ linkedin_username: aniketnagrale
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Results-driven Product Manager with 5+ years of experience in product strategy, analytics, and user engagement. Skilled in designing data-driven features, optimizing user journeys, and implementing growth strategies that drive retention and revenue. Adept at leveraging A/B testing, customer insights, and machine learning to refine product offerings. Strong technical acumen in SQL, Python, and analytics tools, with hands-on experience in fraud detection and automation. Experienced in stakeholder management, agile execution, and cross-functional collaboration to deliver impactful products that align with business goals.
+  
+      | If you have an idea, We can brainstorm and create a *Product* out of it. 
 
 content:
 #  - title: Projects # Title for the section
